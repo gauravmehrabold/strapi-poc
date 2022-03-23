@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_seo_component_seo_metas",
+  "info": {
+    "displayName": "Seo Meta",
+    "icon": "search",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "meta_keywords": {
+      "type": "string"
+    },
+    "meta_title": {
+      "type": "string"
+    },
+    "meta_description": {
+      "type": "text"
+    },
+    "meta_extra": {
+      "type": "text"
+    },
+    "schema": {
+      "type": "component",
+      "repeatable": true,
+      "component": "seo-component.schema"
+    }
+  }
+}

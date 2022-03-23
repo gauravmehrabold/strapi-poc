@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_seo_component_schemata",
+  "info": {
+    "displayName": "schema",
+    "icon": "code",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "json": {
+      "type": "json"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_reusable_blocks_galleries",
+  "info": {
+    "displayName": "gallery",
+    "icon": "images"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "alttext": {
+      "type": "string"
+    }
+  }
+}

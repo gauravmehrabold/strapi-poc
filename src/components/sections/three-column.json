@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_three_columns",
+  "info": {
+    "displayName": "three_column",
+    "icon": "columns"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
